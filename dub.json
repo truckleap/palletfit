@@ -1,0 +1,17 @@
+{
+	"name": "palletfit",
+	"description": "Floor-position and weight check for loading standard pallets into a 26-foot box truck or other straight truck.",
+	"homepage": "https://truckleap.com/dispatch/box-truck",
+	"authors": [
+		"TruckLeap"
+	],
+	"copyright": "Copyright 2026 TruckLeap",
+	"license": "MIT",
+	"targetType": "library",
+	"sourcePaths": [
+		"."
+	],
+	"importPaths": [
+		"."
+	]
+}
